@@ -21,6 +21,11 @@
 pip install -r requirements.txt
 ```
 
+### Вызов в консоли
+```
+python http-api.py [user-id]
+```
+
 ### Работа
 ```
 (venv) C:\Users\Loliconshik\PycharmProjects\http-api>python http-api.py 236664271
